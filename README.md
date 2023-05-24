@@ -144,7 +144,7 @@ Oxygen room options:
 
 4.go west:(changes to escape pod room png)
 escape pod/ engines room:
-Text: You decided to head over to the Escape Pods there may be some clues as to where everyone went you estimate even in an old school trawler like this the average escape shuttle would fit 4 comfortably, and from the riots on Centari-Minor you know it'll fit 6 uncomfortably. You walk into the silent room, you bring up the your visor communicator as your pilot calls you from your vessel. Your comm display clicks on and he tells you "Hey Choom just wanted to let you know your contract only covers 59870 parsecs and we are at 49870 I'd hurry up if I were you" 
+Text: You decided to head over to the Escape Pods there may be some clues as to where everyone went you estimate even in an old school trawler like this the average escape shuttle would fit 4 comfortably, and from the riots on Centari-Minor you know it'll fit 6 uncomfortably. You walk into the silent room, you bring up the your visor communicator as your pilot calls you from your vessel. Your comm display clicks on and he tells you 'Hey Choom just wanted to let you know your contract only covers 59870 parsecs and we are at 49870 I'd hurry up if I were you' 
 Escape pod room options:  
 1.Calm Answer "dont call me Choom, ill be done soon just keep the thrusters on"
     outcome:
