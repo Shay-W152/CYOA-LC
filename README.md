@@ -30,6 +30,8 @@ Coding
 
     Credits/ Inspiration
     https://www.reddit.com/r/learnjavascript/comments/ecuejs/how_can_i_use_javascript_to_make_a_chooseyourown/
+
+    https://codepen.io/lbebber/pen/XJRdrV
    
     https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/01/s_9DCA19C260A17186CB74D88060C4120D5C4E963F9CC68332AE102310C9807941_1547386667476_deepfield.jpg?fit=%2C&ssl=1
 
