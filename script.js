@@ -116,7 +116,7 @@ const story = {
   19:{
     text:"You set the self-destruct. You set up the timer for just enough time that you can make it back to your transport and leave the immediate area you contained the contamination you return to your employers and tell them everyone on that ship died",
     options:[
-      {text:"You win :D", next:1, img:"https://cdnb.artstation.com/p/assets/images/images/010/311/219/medium/joao-pedro-grandinetti-win-screen.jpg?1523752399"}    ]
+      {text:"You win :D", next:1, img:"https://zxart.ee/zxscreen/border:0/mode:mix/pal:srgb/type:standard/zoom:3/id:44497/"}    ]
   },
   20:{
     text:"You activate the navigation protocol on your palm screen. The ship's navigation system comes online, displaying the ship's current location and trajectory. However, you notice the engines seem to be functioning at full capacity. Its pussling as to why every other screen you have seen says other wise.",
@@ -139,19 +139,16 @@ const story = {
   23:{
     text:"you have no need to calcualte the trajectory for down you just set it on a timer and run for your transport. you set up the timer for just enough time that you can make it back to your transport and leave the immediate area you contained the contamination you return to your employers and tell them everyone on that ship died",
     options:[
-      {text:"You win :D", next:1, img:"https://cdnb.artstation.com/p/assets/images/images/010/311/219/medium/joao-pedro-grandinetti-win-screen.jpg?1523752399"}
+      {text:"You win :D", next:1, img:"https://zxart.ee/zxscreen/border:0/mode:mix/pal:srgb/type:standard/zoom:3/id:44497/"}
     ]
   },
   24:{
     text:"it was too spooky you went back to your ship and left",
     options:[
-      {text:"Start Over", next:1,img:"https://cdnb.artstation.com/p/assets/images/images/010/311/219/medium/joao-pedro-grandinetti-win-screen.jpg?1523752399"}
+      {text:"Start Over", next:1,img:"https://zxart.ee/zxscreen/border:0/mode:mix/pal:srgb/type:standard/zoom:3/id:44497/"}
     ]
   }
 };
-
-  
-  // Add more story sections as needed...
 
 
 let currentSection = 1;
@@ -173,7 +170,7 @@ function renderStory() {
     document.getElementById("options").appendChild(button);
   });
   
-  // Show corresponding image (if available)
+  // Show corresponding pic
   const img = section.options[0].img;
   if (img) {
     document.getElementById("image").src = img;
@@ -189,5 +186,5 @@ function selectOption(index) {
   renderStory();
 }
 
-// Initial rendering
+
 renderStory();
