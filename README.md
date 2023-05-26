@@ -35,6 +35,8 @@ Coding
    
     https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/01/s_9DCA19C260A17186CB74D88060C4120D5C4E963F9CC68332AE102310C9807941_1547386667476_deepfield.jpg?fit=%2C&ssl=1
 
+    https://www.w3schools.com/howto/howto_css_hide_scrollbars.asp
+
     Star Control 2
 https://store.steampowered.com/app/358920/Star_Control_I_and_II/
 https://www.google.com/search?newwindow=1&sxsrf=APwXEdfKTtXiMG-CS2sy8mg7KNx5EpHWdQ:1684499649239&q=star+control+2&tbm=isch&sa=X&ved=2ahUKEwimgd6ZsoH_AhWRkYkEHXJ_C70Q0pQJegQIDRAB&biw=755&bih=796&dpr=1#imgrc=8q2ZUMwoGSi__M
